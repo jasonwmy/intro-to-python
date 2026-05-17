@@ -1,0 +1,22 @@
+
+
+# Ignore all course lesson folders (keep locally, don't commit)
+Variables/
+Strings/
+Data\ structures/
+Condition\ expressions/
+Loops/
+Functions/
+Classes\ and\ objects/
+Modules\ and\ packages/
+File\ input\ output/
+Introduction/
+
+# But track my solutions (override for specific folders)
+!my_solutions/
+!*.py
+
+# Course metadata files
+contributing.md
+course-info.yaml
+course-remote-info.yaml
