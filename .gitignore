@@ -24,3 +24,4 @@ course-remote-info.yaml
 # IDE files
 .idea/
 *.iml
+requirements.txt
