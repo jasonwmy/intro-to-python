@@ -20,3 +20,7 @@ Introduction/
 contributing.md
 course-info.yaml
 course-remote-info.yaml
+
+# IDE files
+.idea/
+*.iml
