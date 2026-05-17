@@ -2,5 +2,10 @@
 
 This folder contains solutions to the Introduction to Python course.
 
-## Completed Exercises:
-- 
+Google Collab : https://colab.research.google.com/drive/1rEFtT_5wyRN1KnVmG5DqKH54lGsUBOHS#scrollTo=wGKVNJ5vKPyt
+
+## Completed Exercises
+
+1. hello_world.py  (Demonstrate print, comment, f-string, concatenate and variable functions)
+
+2. 
